@@ -1,41 +1,50 @@
-# 👨🏻‍💻 Murilo N.B
-# @Canadensuh
-
-**`Estudante de Análise e Desenvolvimento de Sistemas`**
-
-Me chamo Murilo do Nascimento B., tenho 22 anos e sou natural de Santo André, SP. Atualmente, curso Análise e Desenvolvimento de Sistemas na FAEX (Faculdade de Extrema).
-
-Sempre tive interesse pela área de tecnologia e gosto de aprender, desenvolver e colocar novas ideias em prática. Aqui no GitHub, compartilho projetos desenvolvidos durante a faculdade, além de projetos pessoais e experimentos relacionados ao **MapleProjectSeries**.
-
-<p align="left">
-    <a href="https://github.com/Canadensuh">
-        <img 
-            alt="Seguidores do GitHub" 
-            title="Me siga no GitHub!" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Canadensuh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/Canadensuh?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Canadensuh?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://www.instagram.com/cnd_not_found/">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram!" 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Murilo N.B!;+@Canadensuh;+Bem-vindo+ao+meu+GitHub!+:%29" />
 </p>
 
 ---
 
-### 🤖 Tecnologias e Ferramentas
+## 👨‍💻 Quem sou eu
 
-<!-- Adicione aqui apenas as tecnologias que você realmente utiliza -->
+<img align="right" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Coding gif" />
+
+**Murilo do Nascimento B.**  
+🎂 22 anos  
+📍 Santo André – SP  
+🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FAEX** (Faculdade de Extrema)  
+
+Sou um desenvolvedor **focado em Front-End** e apaixonado por **Design**. Acredito que interfaces bonitas e funcionais transformam a experiência do usuário, e é isso que me motiva a criar. Aqui no GitHub compartilho minha jornada acadêmica, projetos pessoais e os experimentos da minha **MapleProjectSeries** — um universo dedicado a **livros, histórias e RPGs de mesa**, onde a imaginação e o código se encontram.
+
+---
+
+## 📊 Status
+
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=for-the-badge&label=VISUALIZAÇÕES" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&logo=github&color=blueviolet" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/SEU_USUARIO?style=for-the-badge&logo=github&color=yellow" alt="GitHub stars" />
+  
+</div>
+
+---
+
+## 🚀 Minhas Estatísticas
+
+<div align="center">
+  <a href="https://github.com/SEU_USUARIO">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=dark&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🤖 Tecnologias e Ferramentas
 
 <img 
     align="left" 
@@ -66,11 +75,47 @@ Sempre tive interesse pela área de tecnologia e gosto de aprender, desenvolver 
 
 <img 
     align="left" 
+    alt="Photoshop" 
+    title="Photoshop"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SQLite" 
+    title="SQLite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
 />
 
 <img 
@@ -82,26 +127,41 @@ Sempre tive interesse pela área de tecnologia e gosto de aprender, desenvolver 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="VS Code" 
+    title="VS Code"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+
+<br clear="left"/>
 <br/>
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🌐 Contato
 
-<p>
-  <img 
-    align="left" 
-    alt="Estatísticas do GitHub" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Canadensuh&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cnd_not_found/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muriloeb14@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-nascimento-88706137a/)
+  
+</div>
 
-  <img 
-    align="left" 
-    alt="Principais linguagens" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canadensuh&theme=tokyonight&layout=compact&custom_title=Principais%20Tecnologias&langs_count=8" 
-  />
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake.svg" alt="Snake animation" />
 </p>
