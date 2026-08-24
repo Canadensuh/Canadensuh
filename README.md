@@ -5,6 +5,7 @@
 **Murilo do Nascimento B.**  
 🎂 22 anos  
 📍 Santo André SP - Extrema MG
+
 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FAEX** (Faculdade de Extrema)  
 
 Sou um desenvolvedor **focado em Front-End** e apaixonado por **Design**. Acredito que interfaces bonitas e funcionais transformam a experiência do usuário, e é isso que me motiva a criar. Aqui no GitHub compartilho minha jornada acadêmica, projetos pessoais e os experimentos da minha **MapleProjectSeries** — um universo dedicado a **livros, histórias e RPGs de mesa**, onde a imaginação e o código se encontram.
