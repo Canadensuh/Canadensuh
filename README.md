@@ -10,21 +10,6 @@
 Sou um desenvolvedor **focado em Front-End** e apaixonado por **Design**. Acredito que interfaces bonitas e funcionais transformam a experiência do usuário, e é isso que me motiva a criar. Aqui no GitHub compartilho minha jornada acadêmica, projetos pessoais e os experimentos da minha **MapleProjectSeries** — um universo dedicado a **livros, histórias e RPGs de mesa**, onde a imaginação e o código se encontram.
 
 ---
-## 🚀 Minhas Estatísticas
-
-<div align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=dark&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🤖 Tecnologias e Ferramentas
 
 <img 
