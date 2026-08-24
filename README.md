@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Murilo N.B!;+@Canadensuh;+Bem-vindo+ao+meu+GitHub!+:%29" />
-</p>
-
----
-
 ## 👨‍💻 Quem sou eu
 
 <img align="right" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Coding gif" />
@@ -16,19 +10,6 @@
 Sou um desenvolvedor **focado em Front-End** e apaixonado por **Design**. Acredito que interfaces bonitas e funcionais transformam a experiência do usuário, e é isso que me motiva a criar. Aqui no GitHub compartilho minha jornada acadêmica, projetos pessoais e os experimentos da minha **MapleProjectSeries** — um universo dedicado a **livros, histórias e RPGs de mesa**, onde a imaginação e o código se encontram.
 
 ---
-
-## 📊 Status
-
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=for-the-badge&label=VISUALIZAÇÕES" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&logo=github&color=blueviolet" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/SEU_USUARIO?style=for-the-badge&logo=github&color=yellow" alt="GitHub stars" />
-  
-</div>
-
----
-
 ## 🚀 Minhas Estatísticas
 
 <div align="center">
@@ -159,9 +140,3 @@ Sou um desenvolvedor **focado em Front-End** e apaixonado por **Design**. Acredi
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-nascimento-88706137a/)
   
 </div>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake.svg" alt="Snake animation" />
-</p>
