@@ -117,9 +117,6 @@ Sou um desenvolvedor **focado em Front-End** e apaixonado por **Design**. Acredi
 ---
 
 ## 🌐 Contato
-
-<div align="center">
-  
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cnd_not_found/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muriloeb14@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-nascimento-88706137a/)
